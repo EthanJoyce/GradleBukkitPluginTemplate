@@ -3,4 +3,4 @@
 Why waste time setting up project build scripts when you could be working?
 
 ## Licencing:
-This template is licenced under the MIT licence.
+This template is in the public domain. Feel free to use it however you like.
