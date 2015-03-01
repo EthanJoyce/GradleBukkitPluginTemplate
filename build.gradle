@@ -9,9 +9,7 @@ defaultTasks 'clean', 'build'
 
 repositories {
     mavenCentral()
-    maven {
-        url "http://repo.bukkit.org/content/groups/public/"
-    }
+    maven { url "http://repo.bukkit.org/content/groups/public/" }
 }
 
 dependencies {
